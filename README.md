@@ -1,10 +1,25 @@
-# 1 - crear una funcion que genere una escusa aleatoria con esos datos 
-# 2 - creeis otra funcion que cuente el numero de repeticiones de letras en cada array
-# 3 - suprimir repeticiones en un array y devolver el array sin la repeticion
-# 4 - function que invierta todos los valores de el array
+# First Python Exercise
 
-# datos iniciales 
-surnames = ['10', 'juan', '@12', 'null', 'antonioPerezDelCarmen', 'abcdefghtioiasoisdjads', 'Manolo', 'Perez', 'Soledad']
-escuses = ['OMG?', 'Whats going on?', 'How much is it?', 'undefined']
-dates = ['Jeferson', 'Matilda', 'R@fael', '1van', 'Pep3', 'Loquesea', 'Fel1berto', 'Pepit@', 'D@M']
+> By Keili Rosales
+
+## Objective
+
+The goal of this exercise is to use the first JavaScript exercises, but this time written in Python, to test how the same functionality can be achieved in fewer lines of code. 
+
+Truly a wonderful language!
+
+## Application
+
+Run the project using: `python index.py`.
+Check the results in the console. 
+
+## Technologies
+
+- Python
+
+## Contributions
+
+I'd love to get your appreciation or report on the code at https://github.com/keikeka/Exercises-Python
+
+Thank you very much!
 
